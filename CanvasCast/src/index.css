@@ -11,4 +11,84 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.container {
+  display: grid;
+  & > * {
+    grid-column: 1;
+    grid-row: 1;
+  }
+}
+
+.painting {
+  width: 100vw;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.painting-info {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 0px 1.4rem;  
+  border-radius: 5px;
+}
+
+.painting-info h3 {
+  text-transform: capitalize;
+}
+
+.painting-info .artist-name {
+  font-style: italic;
+}
+
+.painting-info .circle {
+  font-size: 10px;
+  vertical-align: middle;
+  padding-left: .6rem;
+  padding-right: .6rem;
+}
+
+.settings-gear {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 8px 16px;  
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 2rem;
+  transition: all .3s ease-in-out;
+}
+
+.settings-gear:hover {
+  transition: all .3s ease-in-out;
+  transform: translateY(-5px);
+}
+
+.timer-duration {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 4px 8px;  
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all .3s ease-in-out;
+
+}
+
+.timer-duration:hover {
+  transition: all .3s ease-in-out;
+  transform: translateY(-5px);
 }
