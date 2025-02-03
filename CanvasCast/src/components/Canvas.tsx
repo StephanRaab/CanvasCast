@@ -1,9 +1,13 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Painting from "../types/painting";
 import TimeUnit from "../types/timeUnit";
 import Modal from "./Modal";
 
 function Canvas() {
+    const [timer, setTimer] = useState(1);
+    const [timerUnit, setTimerUnit] = useState(TimeUnit.Minute);
+    const [modalVisible, setModalVisible] = useState(false);
+
     const test: Painting = {
         title: "The Night Watch",
         url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1920px-The_Night_Watch_-_HD.jpg",
@@ -12,9 +16,14 @@ function Canvas() {
         type: "painting"
     }
 
-    const [timer, setTimer] = useState(1);
-    const [timerUnit, setTimerUnit] = useState(TimeUnit.Minute);
-    const [modalVisible, setModalVisible] = useState(false);
+    useEffect(() => {
+        const interval = setInterval(() => {
+            const date = new Date();
+            console.log(`${date.getHours()}:${date.getMinutes()} Change image...`);
+        }, 60000);
+      
+        return () => clearInterval(interval);
+    }, [timer]);
 
     const toggleModal = () => {
         setModalVisible(!modalVisible)
@@ -30,9 +39,9 @@ function Canvas() {
                 }
 
                 {modalVisible &&
-                <div className="modal-container">
-                    <Modal isVisible={modalVisible} />
-                </div>
+                    <div className="modal-container">
+                        <Modal isVisible={modalVisible} />
+                    </div>
                 }
                 
 
