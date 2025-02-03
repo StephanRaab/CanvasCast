@@ -97,3 +97,16 @@
   transition: all .3s ease-in-out;
   transform: translateY(-5px);
 }
+
+.modal-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+.modal {
+  width: 60vw;
+  height: 80vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 5px;  
+}
