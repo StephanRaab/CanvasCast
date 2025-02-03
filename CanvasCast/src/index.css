@@ -13,7 +13,14 @@
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  
+  margin: 0;
+  overflow: hidden; /* Prevents scrolling */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full height of the viewport */
+
 }
 
 .container {
@@ -25,10 +32,10 @@
 }
 
 .painting {
-  width: 100vw;
-  height: 100%;
-  background-size: cover;
-  background-position: center;
+  width: 100vw; /* Maintain aspect ratio */
+  height: 100vh; /* Maintain aspect ratio */
+  object-fit: cover; /* Cover the entire area while maintaining aspect ratio */
+  object-position: center; /* Center the image */
 }
 
 .painting-info {
@@ -85,7 +92,6 @@
   cursor: pointer;
   font-size: 1rem;
   transition: all .3s ease-in-out;
-
 }
 
 .timer-duration:hover {
