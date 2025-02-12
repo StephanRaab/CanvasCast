@@ -1,17 +1,8 @@
-import Canvas from './components/Canvas'
-import data from './assets/paintings.json'
-import Painting from './types/painting.ts'
+import paintingsData from './data/paintings.json';
+import Canvas from './components/Canvas';
 
-function App() { 
-  const paintings : Painting[] = data;
-
-  return (    
-    <>
-      {paintings.map(painting => (
-        <Canvas key={painting.id} painting={painting} />
-      ))}
-    </>
-  )
+function App() {
+  return <Canvas paintings={paintingsData.paintings} />;
 }
 
 export default App;
