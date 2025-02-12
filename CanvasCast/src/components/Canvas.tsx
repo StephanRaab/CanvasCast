@@ -13,7 +13,8 @@ function Canvas() {
         url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1920px-The_Night_Watch_-_HD.jpg",
         artist: "Rembrandt van Rijn",
         year: 1642,
-        type: "painting"
+        type: "painting",
+        location: "Rijksmuseum, Amsterdam"
     }
 
     useEffect(() => {
@@ -49,6 +50,7 @@ function Canvas() {
                     <div className="painting-info">
                         <h2>{test.title} by <span className="artist-name">{test.artist}</span></h2>
                         <h3>{test.type} <span className="circle">●</span> {test.year}</h3>
+                        <p>{test.location}</p>
                     </div>
                 }
 
