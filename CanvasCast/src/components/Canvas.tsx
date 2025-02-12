@@ -3,19 +3,14 @@ import Painting from "../types/painting";
 import TimeUnit from "../types/timeUnit";
 import Modal from "./Modal";
 
-function Canvas() {
+type PaintingProps = {
+    painting: Painting;
+}
+
+function Canvas({painting}): PaintingProps {
     const [timer, setTimer] = useState(1);
     const [timerUnit, setTimerUnit] = useState(TimeUnit.Minute);
     const [modalVisible, setModalVisible] = useState(false);
-
-    const test: Painting = {
-        title: "The Night Watch",
-        url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1920px-The_Night_Watch_-_HD.jpg",
-        artist: "Rembrandt van Rijn",
-        year: 1642,
-        type: "painting",
-        location: "Rijksmuseum, Amsterdam"
-    }
 
     useEffect(() => {
         const interval = setInterval(() => {
@@ -33,7 +28,7 @@ function Canvas() {
     return (
         <>
             <div className="container">
-                <img className="painting" src={test.url} alt={test.title} />
+                <img className="painting" src={painting.url} alt={painting.title} />
 
                 {!modalVisible &&
                     <div className="timer-duration" onClick={toggleModal}>Painting duration: {timer} {timerUnit}</div>
@@ -44,13 +39,12 @@ function Canvas() {
                         <Modal isVisible={modalVisible} />
                     </div>
                 }
-                
 
                 {!modalVisible &&
                     <div className="painting-info">
-                        <h2>{test.title} by <span className="artist-name">{test.artist}</span></h2>
-                        <h3>{test.type} <span className="circle">●</span> {test.year}</h3>
-                        <p>{test.location}</p>
+                        <h2>{painting.title} by <span className="artist-name">{painting.artist}</span></h2>
+                        <h3>{painting.type} <span className="circle">●</span> {painting.year}</h3>
+                        <p>{painting.location}</p>
                     </div>
                 }
 

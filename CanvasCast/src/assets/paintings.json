@@ -1,0 +1,12 @@
+const data = [
+  {
+      id: 1,
+      title: "The Night Watch",
+      url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1920px-The_Night_Watch_-_HD.jpg",
+      artist: "Rembrandt van Rijn",
+      year: 1642,
+      type: "painting",
+      location: "Rijksmuseum, Amsterdam"
+    },
+]
+  export default data;

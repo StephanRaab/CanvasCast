@@ -1,9 +1,16 @@
 import Canvas from './components/Canvas'
+import data from './assets/paintings.json'
+import Painting from './types/painting.ts'
 
 function App() { 
+  const paintings : Painting[] = data;
 
   return (    
-    <Canvas/>
+    <>
+      {paintings.map(painting => (
+        <Canvas key={painting.id} painting={painting} />
+      ))}
+    </>
   )
 }
 
