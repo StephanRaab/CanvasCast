@@ -1,6 +1,5 @@
 {
   "paintings": [
-    [
   {
     "id": 1,
     "title": "The Night Watch",
@@ -89,7 +88,8 @@
     "artist": "Salvador Dalí",
     "year": 1931,
     "type": "painting",
-    "location": "Museum of Modern Art, New York },
+    "location": "Museum of Modern Art, New York"
+  },
   {
     "id": 11,
     "title": "The Scream",
@@ -451,5 +451,4 @@
     "location": "National Gallery, London"
   }
 ]
-  ]
 }
