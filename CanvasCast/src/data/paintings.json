@@ -363,38 +363,20 @@
   {
     "id": 41,
     "title": "The School of Athens",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Raffaello_Sanzio_-_Scuola_di_Atene_%28cropped%29.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/The_School_of_Athens.jpg",
     "artist": "Raphael",
     "year": 1511,
     "type": "painting",
     "location": "Vatican Museums, Vatican City"
   },
   {
-    "id": 42,
-    "title": "The Last Judgment",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Michelangelo_-_The_Last_Judgment_%28cropped%29.jpg",
-    "artist": "Michelangelo",
-    "year": 1541,
-    "type": "painting",
-    "location": "Sistine Chapel, Vatican City"
-  },
-  {
     "id": 43,
     "title": "The Girl with a Pearl Earring",
-    "url": "https://upload.wikimedia.org/w ikipedia/commons/0/0f/Girl_with_a_Pearl_Earring.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg",
     "artist": "Johannes Vermeer",
     "year": 1665,
     "type": "painting",
     "location": "Mauritshuis, The Hague"
-  },
-  {
-    "id": 44,
-    "title": "The Night Watch",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1920px-The_Night_Watch_-_HD.jpg",
-    "artist": "Rembrandt van Rijn",
-    "year": 1642,
-    "type": "painting",
-    "location": "Rijksmuseum, Amsterdam"
   },
   {
     "id": 45,
@@ -417,7 +399,7 @@
   {
     "id": 47,
     "title": "The Birth of Venus",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
     "artist": "Sandro Botticelli",
     "year": 1484,
     "type": "painting",
@@ -426,7 +408,7 @@
   {
     "id": 48,
     "title": "The Great Wave off Kanagawa",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Great_Wave_off_Kanagawa.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg",
     "artist": "Hokusai",
     "year": 1831,
     "type": "painting",
@@ -435,7 +417,7 @@
   {
     "id": 49,
     "title": "The Dance",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/La_Danse_-_Henri_Matisse.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/La_danse_%28I%29_by_Matisse.jpg",
     "artist": "Henri Matisse",
     "year": 1910,
     "type": "painting",
@@ -444,7 +426,7 @@
   {
     "id": 50,
     "title": "The Hay Wain",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_Constable_-_The_Hay_Wain_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg",
     "artist": "John Constable",
     "year": 1821,
     "type": "painting",

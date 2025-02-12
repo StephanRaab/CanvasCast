@@ -22,6 +22,7 @@ function Canvas({ paintings }: CanvasProps) {
         if (paintings.length > 1 && newPainting.id === currentPainting.id) {
             return getRandomPainting();
         }
+        console.log("New painting: ", newPainting);
         return newPainting;
     };
 
