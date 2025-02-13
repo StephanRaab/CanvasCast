@@ -12,7 +12,7 @@
   {
     "id": 2,
     "title": "The Starry Night",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/2560px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
     "artist": "Vincent van Gogh",
     "year": 1889,
     "type": "painting",
@@ -21,7 +21,7 @@
   {
     "id": 3,
     "title": "Snap the Whip",
-    "url": "https://www.wikiart.org/en/winslow-homer/snap-the-whip",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Winslow_Homer_-_Snap_the_Whip_%28Butler_Institute_of_American_Art%29.jpg",
     "artist": "Winslow Homer",
     "year": 1872,
     "type": "painting",
@@ -30,7 +30,7 @@
   {
     "id": 4,
     "title": "Ophelia",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg",
     "artist": "John Everett Millais",
     "year": 1852,
     "type": "painting",
@@ -39,7 +39,7 @@
   {
     "id": 5,
     "title": "The Fighting Temeraire",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/JMW_Turner_-_The_Fighting_Temeraire_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg",
     "artist": "J. M. W. Turner",
     "year": 1839,
     "type": "painting",
@@ -48,7 +48,7 @@
   {
     "id": 6,
     "title": "The Birth of Venus",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Birth_of_Venus_%28Botticelli%29_1.jpg",
     "artist": "Sandro Botticelli",
     "year": 1484,
     "type": "painting",
@@ -57,7 +57,7 @@
   {
     "id": 7,
     "title": "The Arnolfini Portrait",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jan_van_Eyck_-_Arnolfini_Portrait_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg",
     "artist": "Jan van Eyck",
     "year": 1434,
     "type": "painting",
@@ -66,7 +66,7 @@
   {
     "id": 8,
     "title": "The Milkmaid",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vermeer_-_The_Milkmaid_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg",
     "artist": "Johannes Vermeer",
     "year": 1658,
     "type": "painting",
@@ -75,7 +75,7 @@
   {
     "id": 9,
     "title": "The Kiss",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gustav_Klimt_-_The_Kiss_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
     "artist": "Gustav Klimt",
     "year": 1907,
     "type": "painting",
@@ -84,7 +84,7 @@
   {
     "id": 10,
     "title": "The Persistence of Memory",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_Persistence_of_Memory.jpg",
+    "url": "https://www.artchive.com/wp-content/uploads/2023/04/The-Persistence-of-Memory-DALI-Salvador-1931-2.jpg",
     "artist": "Salvador Dalí",
     "year": 1931,
     "type": "painting",
@@ -93,7 +93,7 @@
   {
     "id": 11,
     "title": "The Scream",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/1650px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
     "artist": "Edvard Munch",
     "year": 1893,
     "type": "painting",
@@ -102,7 +102,7 @@
   {
     "id": 12,
     "title": "Girl with a Pearl Earring",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Girl_with_a_Pearl_Earring.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Girl_with_a_Pearl_Earring.jpg",
     "artist": "Johannes Vermeer",
     "year": 1665,
     "type": "painting",
@@ -111,7 +111,7 @@
   {
     "id": 13,
     "title": "The Creation of Adam",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/The_Creation_of_Adam.jpg",
     "artist": "Michelangelo",
     "year": 1512,
     "type": "painting",
@@ -120,7 +120,7 @@
   {
     "id": 14,
     "title": "The Last Supper",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Leonardo_da_Vinci_-_The_Last_Supper_%28restored%29.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Leonardo_da_Vinci_%281452-1519%29_-_The_Last_Supper_%281495-1498%29.jpg",
     "artist": "Leonardo da Vinci",
     "year": 1498,
     "type": "painting",
@@ -129,7 +129,7 @@
   {
     "id": 15,
     "title": "The Birth of Venus",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Birth_of_Venus_%28Botticelli%29_1.jpg",
     "artist": "Sandro Botticelli",
     "year": 1486,
     "type": "painting",
@@ -138,7 +138,7 @@
   {
     "id": 16,
     "title": "The Night Café",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Vincent_van_Gogh_-_The_Night_Cafe_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Night_Cafe_in_Arles%2C_The.jpg",
     "artist": "Vincent van Gogh",
     "year": 1888,
     "type": "painting",
@@ -147,7 +147,7 @@
   {
     "id": 17,
     "title": "The Garden of Earthly Delights",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hieronymus_Bosch_-_The_Garden_of_Earthly_Delights_%28triptych%29.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg/2560px-The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution.jpg",
     "artist": "Hieronymus Bosch",
     "year": 1490,
     "type": "painting",
@@ -156,7 +156,7 @@
   {
     "id": 18,
     "title": "The Great Wave off Kanagawa",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Great_Wave_off_Kanagawa.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg",
     "artist": "Hokusai",
     "year": 1831,
     "type": "painting",
@@ -165,7 +165,7 @@
   {
     "id": 19,
     "title": "The Dance",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/La_Danse_-_Henri_Matisse.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/La_Danse_II%2C_par_Henri_Matisse.jpg",
     "artist": "Henri Matisse",
     "year": 1910,
     "type": "painting",
@@ -174,7 +174,7 @@
   {
     "id": 20,
     "title": "The Hay Wain",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_Constable_-_The_Hay_Wain_-_Google_Art_Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg/2560px-John_Constable_-_The_Hay_Wain_%281821%29.jpg",
     "artist": "John Constable",
     "year": 1821,
     "type": "painting",
@@ -183,7 +183,7 @@
   {
     "id": 21,
     "title": "The School of Athens",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Raffaello_Sanzio_-_Scuola_di_Atene_%28cropped%29.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/2560px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg",
     "artist": "Raphael",
     "year": 1511,
     "type": "painting",
@@ -192,245 +192,11 @@
   {
     "id": 22,
     "title": "The Last Judgment",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Michelangelo_-_The_Last_Judgment_%28cropped%29.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Last_Judgement_%28Michelangelo%29.jpg",
     "artist": "Michelangelo",
     "year": 1541,
     "type": "painting",
     "location": "Sistine Chapel, Vatican City"
-  },
-  {
-    "id": 23,
-    "title": "The Girl with a Pearl Earring",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Girl_with_a_Pearl_Earring.jpg",
-    "artist": "Johannes Vermeer",
-    "year": 1665,
-    "type": "painting",
-    "location": "Mauritshuis, The Hague"
-  },
-  {
-    "id": 24,
-    "title": "The Night Watch",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1920px-The_Night_Watch_-_HD.jpg",
-    "artist": "Rembrandt van Rijn",
-    "year": 1642,
-    "type": "painting",
-    "location": "Rijksmuseum, Amsterdam"
-  },
-  {
-    "id": 25,
-    "title": "The Kiss",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gustav_Klimt_-_The_Kiss_-_Google_Art_Project.jpg",
-    "artist": "Gustav Klimt",
-    "year": 1907,
-    "type": "painting",
-    "location": "Österreichische Galerie Belvedere, Vienna"
-  },
-  {
-    "id": 26,
-    "title": "The Persistence of Memory",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_Persistence_of_Memory.jpg",
-    "artist": "Salvador Dalí",
-    "year": 1931,
-    "type": "painting",
-    "location": "Museum of Modern Art, New York"
-  },
-  {
-    "id": 27,
-    "title": "The Birth of Venus",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg",
-    "artist": "Sandro Botticelli",
-    "year": 1484,
-    "type": "painting",
-    "location": "Uffizi Gallery, Florence"
-  },
-  {
-    "id": 28,
-    "title": "The Great Wave off Kanagawa",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Great_Wave_off_Kanagawa.jpg",
-    "artist": "Hokusai",
-    "year": 1831,
-    "type": "painting",
-    "location": "Tokyo National Museum, Tokyo"
-  },
-  {
-    "id": 29,
-    "title": "The Dance",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/La_Danse_-_Henri_Matisse.jpg",
-    "artist": "Henri Matisse",
-    "year": 1910,
-    "type": "painting",
-    "location": "The Museum of Modern Art, New York"
-  },
-  {
-    "id": 30,
-    "title": "The Hay Wain",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_Constable_-_The_Hay_Wain_-_Google_Art_Project.jpg",
-    "artist": "John Constable",
-    "year": 1821,
-    "type": "painting",
-    "location": "National Gallery, London"
-  },
-  {
-    "id": 31,
-    "title": "The School of Athens",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Raffaello_Sanzio_-_Scuola_di_Atene_%28cropped%29.jpg",
-    "artist": "Raphael",
-    "year": 1511,
-    "type": "painting",
-    "location": "Vatican Museums, Vatican City"
-  },
-  {
-    "id": 32,
-    "title": "The Last Judgment",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Michelangelo_-_The_Last_Judgment_%28 cropped%29.jpg",
-    "artist": "Michelangelo",
-    "year": 1541,
-    "type": "painting",
-    "location": "Sistine Chapel, Vatican City"
-  },
-  {
-    "id": 33,
-    "title": "The Girl with a Pearl Earring",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Girl_with_a_Pearl_Earring.jpg",
-    "artist": "Johannes Vermeer",
-    "year": 1665,
-    "type": "painting",
-    "location": "Mauritshuis, The Hague"
-  },
-  {
-    "id": 34,
-    "title": "The Night Watch",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1920px-The_Night_Watch_-_HD.jpg",
-    "artist": "Rembrandt van Rijn",
-    "year": 1642,
-    "type": "painting",
-    "location": "Rijksmuseum, Amsterdam"
-  },
-  {
-    "id": 35,
-    "title": "The Kiss",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gustav_Klimt_-_The_Kiss_-_Google_Art_Project.jpg",
-    "artist": "Gustav Klimt",
-    "year": 1907,
-    "type": "painting",
-    "location": "Österreichische Galerie Belvedere, Vienna"
-  },
-  {
-    "id": 36,
-    "title": "The Persistence of Memory",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_Persistence_of_Memory.jpg",
-    "artist": "Salvador Dalí",
-    "year": 1931,
-    "type": "painting",
-    "location": "Museum of Modern Art, New York"
-  },
-  {
-    "id": 37,
-    "title": "The Birth of Venus",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg",
-    "artist": "Sandro Botticelli",
-    "year": 1484,
-    "type": "painting",
-    "location": "Uffizi Gallery, Florence"
-  },
-  {
-    "id": 38,
-    "title": "The Great Wave off Kanagawa",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Great_Wave_off_Kanagawa.jpg",
-    "artist": "Hokusai",
-    "year": 1831,
-    "type": "painting",
-    "location": "Tokyo National Museum, Tokyo"
-  },
-  {
-    "id": 39,
-    "title": "The Dance",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/La_Danse_-_Henri_Matisse.jpg",
-    "artist": "Henri Matisse",
-    "year": 1910,
-    "type": "painting",
-    "location": "The Museum of Modern Art, New York"
-  },
-  {
-    "id": 40,
-    "title": "The Hay Wain",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_Constable_-_The_Hay_Wain_-_Google_Art_Project.jpg",
-    "artist": "John Constable",
-    "year": 1821,
-    "type": "painting",
-    "location": "National Gallery, London"
-  },
-  {
-    "id": 41,
-    "title": "The School of Athens",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/The_School_of_Athens.jpg",
-    "artist": "Raphael",
-    "year": 1511,
-    "type": "painting",
-    "location": "Vatican Museums, Vatican City"
-  },
-  {
-    "id": 43,
-    "title": "The Girl with a Pearl Earring",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg",
-    "artist": "Johannes Vermeer",
-    "year": 1665,
-    "type": "painting",
-    "location": "Mauritshuis, The Hague"
-  },
-  {
-    "id": 45,
-    "title": "The Kiss",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gustav_Klimt_-_The_Kiss_-_Google_Art_Project.jpg",
-    "artist": "Gustav Klimt",
-    "year": 1907,
-    "type": "painting",
-    "location": "Österreichische Galerie Belvedere, Vienna"
-  },
-  {
-    "id": 46,
-    "title": "The Persistence of Memory",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_Persistence_of_Memory.jpg",
-    "artist": "Salvador Dalí",
-    "year": 1931,
-    "type": "painting",
-    "location": "Museum of Modern Art, New York"
-  },
-  {
-    "id": 47,
-    "title": "The Birth of Venus",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
-    "artist": "Sandro Botticelli",
-    "year": 1484,
-    "type": "painting",
-    "location": "Uffizi Gallery, Florence"
-  },
-  {
-    "id": 48,
-    "title": "The Great Wave off Kanagawa",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg",
-    "artist": "Hokusai",
-    "year": 1831,
-    "type": "painting",
-    "location": "Tokyo National Museum, Tokyo"
-  },
-  {
-    "id": 49,
-    "title": "The Dance",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/La_danse_%28I%29_by_Matisse.jpg",
-    "artist": "Henri Matisse",
-    "year": 1910,
-    "type": "painting",
-    "location": "The Museum of Modern Art, New York"
-  },
-  {
-    "id": 50,
-    "title": "The Hay Wain",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg",
-    "artist": "John Constable",
-    "year": 1821,
-    "type": "painting",
-    "location": "National Gallery, London"
   }
-]
+  ]
 }
